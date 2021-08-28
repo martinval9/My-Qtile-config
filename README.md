@@ -8,7 +8,9 @@ Kitty - Terminal
 
 Tmux - Multiplexer
 
-neovim - Code Editor
+Neovim - Code Editor
+
+Visual Studio Code Insiders - Code Editor
 
 feh - Wallpaper Viewer
 
@@ -19,6 +21,8 @@ qutebrowser - Web Browser
 nnn - File Manager
 
 zsh - Shell
+
+picom - Compositor
 
 You can install them from the package manager of your linux distribution.
 
