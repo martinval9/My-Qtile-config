@@ -18,4 +18,6 @@ qutebrowser - Web Browser
 
 nnn - File Manager
 
-Font - mononoki NF
+You can install them from the package manager of your linux distribution.
+
+Font - mononoki NF - https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Mononoki.zip
