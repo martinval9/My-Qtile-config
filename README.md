@@ -17,3 +17,5 @@ rofi - Menu
 qutebrowser - Web Browser
 
 nnn - File Manager
+
+Font - mononoki NF
